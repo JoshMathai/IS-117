@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My website portfolio ",
+  "homepage": "https://github.com/JoshMathai/IS-117#readme",
+  "bugs": {
+    "url": "https://github.com/JoshMathai/IS-117/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshMathai/IS-117.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
